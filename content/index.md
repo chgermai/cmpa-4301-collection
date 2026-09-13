@@ -9,6 +9,6 @@ The collection is organized around three use cases that come up most often on my
 
 Each entry includes an annotation covering what the source covers, why it's valuable, who would find it useful, and any limitations or caveats. I've tried to be direct about which sources are vendor marketing versus independent research, since that distinction matters a lot when you're deciding whether to trust a claim.
 
-Use the category pages to browse by use case, or the [tags](/tags/) to browse by source type. If you're new to this space, start with the troubleshooting category — it has the clearest mix of research and working examples to get oriented.
+Use the category pages to browse by use case, or the [tags](/cmpa-4301-collection/tags/) to browse by source type. If you're new to this space, start with the troubleshooting category — it has the clearest mix of research and working examples to get oriented.
 
 This collection is a work in progress. More sources will be added as I continue researching.
